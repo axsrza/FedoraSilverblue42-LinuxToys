@@ -1,6 +1,22 @@
-# Guia passo a passo para instalar o LinuxToys no Fedora Silverblue 42
+# 🚀 Guia passo a passo para instalar o LinuxToys no Fedora Silverblue 42
+
+[![Fedora 42](https://img.shields.io/badge/Fedora-42-blue?logo=fedora)](https://fedoraproject.org/)
+[![LinuxToys](https://img.shields.io/badge/LinuxToys-COPR-green)](https://copr.fedorainfracloud.org/coprs/psygreg/linuxtoys/)
+[![GitHub](https://img.shields.io/badge/Repo-LinuxToys-lightgrey?logo=github)](https://github.com/psygreg/linuxtoys)
 
 Este é um guia detalhado (clique a clique) para instalar e usar o **LinuxToys** em uma instalação limpa do **Fedora Silverblue 42**.
+
+---
+
+## 📑 Sumário
+
+1. [Após instalar o Fedora Silverblue](#-1-após-instalar-o-fedora-silverblue)
+2. [Atualizar o sistema](#-2-atualizar-o-sistema)
+3. [Adicionar o repositório LinuxToys](#-3-adicionar-o-repositório-linuxtoys)
+4. [Instalar o LinuxToys](#-4-instalar-o-linuxtoys)
+5. [Executar o LinuxToys](#-5-executar-o-linuxtoys)
+6. [Atualizar o LinuxToys junto com o sistema](#-6-atualizar-o-linuxtoys-junto-com-o-sistema)
+7. [Recursos úteis](#-7-recursos-úteis)
 
 ---
 
@@ -86,4 +102,12 @@ E depois reinicie o sistema.
 
 ---
 
-✅ Pronto! Agora você tem o **LinuxToys** funcionando no Fedora Silverblue 42.
+## 🔹 7. Recursos úteis
+
+* 🔗 [Repositório oficial LinuxToys](https://github.com/psygreg/linuxtoys)
+* 🔗 [Página COPR LinuxToys](https://copr.fedorainfracloud.org/coprs/psygreg/linuxtoys/)
+* 🔗 [Documentação Fedora Silverblue](https://docs.fedoraproject.org/en-US/fedora-silverblue/)
+
+---
+
+✅ Pronto! Agora você tem o **LinuxToys** funcionando no **Fedora Silverblue 42** 🎉
