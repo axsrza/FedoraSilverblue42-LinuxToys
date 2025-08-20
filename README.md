@@ -86,34 +86,4 @@ E depois reinicie o sistema.
 
 ---
 
-## 🔹 7. (Opcional) Usar via Git (para modo CLI)
-
-Caso queira rodar o LinuxToys direto do código (útil para automação):
-
-Instale dependências:
-
-```bash
-rpm-ostree install git python3 python3-gobject gtk3 zenity curl wget jq
-systemctl reboot
-```
-
-Clone o repositório e rode:
-
-```bash
-git clone https://github.com/psygreg/linuxtoys.git
-cd linuxtoys
-chmod +x p3/run.py
-./p3/run.py
-```
-
-Para rodar no **modo CLI** (automatizado):
-
-```bash
-LT_MANIFEST=1 ./p3/run.py
-```
-
-> Aqui você define os scripts desejados no arquivo `manifest.txt`.
-
----
-
 ✅ Pronto! Agora você tem o **LinuxToys** funcionando no Fedora Silverblue 42.
